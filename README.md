@@ -1,2 +1,7 @@
-# line-bot-weather-forecast
-天気予報を定期的にお知らせするLINE Bot
+# Weather Forecast LINE Bot
+## あばうと
+天気予報を定期的にお知らせするLINE Botです。
+## 環境
+GASを使用するため、特定の環境を構築する必要はありませんが、ローカルで開発する場合は別途用意する必要があります。
+## 準備
+メッセージを送りたい相手のLINE USER IDが必要です。
